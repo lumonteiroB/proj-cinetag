@@ -1,21 +1,7 @@
-<p align="center"> <img src="https://imgur.com/5OSxg3h.png" alt="Javascript: validando formulários"> </p>
-
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Cinetag: sua plataforma de streaming de filmes relacionados a tecnologia.</p>
-
-## Assuntos abordados durante o curso
-* React
-* React-router-dom
-* Module CSS
-* ContextAPI
-* Hooks
-
-## Outras tecnologias utilizadas no projeto
-* HTML
-* CSS
-* JavaScript
 # proj-cinetag
-# proj-cinetag
-# proj-cinetag
+
+## Descrição
+
+Proj-cinetag é um projeto desenvolvido com o objetivo de aprimorar o conhecimento em React. Este projeto abrange uma variedade de tópicos fundamentais para o desenvolvimento moderno com React, incluindo:
+
+React, React Router DOM, Module CSS, Context API e Hooks.
